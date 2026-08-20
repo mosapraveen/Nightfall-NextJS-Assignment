@@ -4,7 +4,7 @@ A modern and responsive product landing page built with **Next.js** as part of a
 
 ## 🚀 Live Demo
 
-[View Live Website]([nightfall-next-js-assignment-cuazbzlsz.vercel.app](https://nightfall-next-js-assi-git-47c794-praveenmosa903-3659s-projects.vercel.app/))
+[View Live Website](https://nightfall-next-js-assi-git-47c794-praveenmosa903-3659s-projects.vercel.app/)
 
 ## 📂 GitHub Repository
 

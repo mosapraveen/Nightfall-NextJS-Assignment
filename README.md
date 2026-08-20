@@ -1,60 +1,124 @@
-# Nightfall — Red Bull Reimagined
+# Nightfall – Next.js Landing Page
 
-A single-page Next.js landing page created for the Front-End Development Internship assignment.
+A modern and responsive product landing page built with **Next.js** as part of a Front-End Development Internship Assignment.
 
-## Concept
+## 🚀 Live Demo
 
-**Red Bull → Nightfall**, a premium caffeine-free botanical nighttime tea.
+[View Live Website](nightfall-next-js-assignment-cuazbzlsz.vercel.app)
 
-The assignment asks for a well-known brand to be reimagined as something completely opposite to its original identity. Red Bull is associated with energy, speed and adrenaline; Nightfall flips that into calm, slowing down and a nighttime ritual.
+## 📂 GitHub Repository
 
-## Run locally
+[View Source Code](https://github.com/mosapraveen/Nightfall-NextJS-Assignment)
+
+## 📌 About the Project
+
+This project is a single-page product landing website created using **Next.js**.
+
+The assignment required reimagining a well-known brand as something completely opposite to its original identity and creating an attractive landing page designed to convince visitors to purchase the product.
+
+The page focuses on:
+
+* Strong visual design
+* Product presentation
+* Clear call-to-action sections
+* Responsive layout
+* Modern UI
+* Engaging animations and interactions
+
+## 🛠️ Technologies Used
+
+* **Next.js**
+* **React**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Git**
+* **GitHub**
+
+## ✨ Features
+
+* Responsive design for desktop and mobile
+* Modern landing page UI
+* Hero section with product introduction
+* Product benefits and features
+* Call-to-action sections
+* Interactive UI elements
+* Optimized Next.js structure
+* Clean and reusable components
+
+## 📁 Project Structure
+
+```text
+Nightfall-NextJS-Assignment/
+│
+├── app/
+│   ├── page.js
+│   ├── layout.js
+│   └── ...
+│
+├── public/
+│   └── ...
+│
+├── package.json
+├── package-lock.json
+├── next.config.js
+├── .gitignore
+└── README.md
+```
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/mosapraveen/Nightfall-NextJS-Assignment.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd Nightfall-NextJS-Assignment
+```
+
+### 3. Install dependencies
 
 ```bash
 npm install
+```
+
+### 4. Start the development server
+
+```bash
 npm run dev
 ```
 
-Open `http://localhost:3000`.
+### 5. Open in your browser
 
-## Production test
-
-```bash
-npm run build
-npm start
+```text
+http://localhost:3000
 ```
 
-## Deploy
+## 📱 Responsive Design
 
-### Vercel
-1. Push this folder to a public GitHub repository.
-2. Import the repository at Vercel.
-3. Keep the default Next.js build settings.
-4. Deploy.
+The website is designed to work across different screen sizes, including:
 
-### GitHub
-Create a public repository, then:
+* Desktop
+* Laptop
+* Tablet
+* Mobile
 
-```bash
-git init
-git add .
-git commit -m "Create Nightfall landing page"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
+## 🎯 Assignment Objective
 
-## Assignment checklist
+The goal of this project was to demonstrate front-end development skills by creating a visually appealing, responsive, and convincing product landing page using Next.js.
 
-- [x] Next.js single landing page
-- [x] Responsive desktop/tablet/mobile design
-- [x] Reimagined well-known brand concept
-- [x] Product-focused CTA and shopping interaction
-- [x] Structured components and clean CSS
-- [ ] Push to your public GitHub repository
-- [ ] Deploy to Vercel/Netlify
-- [ ] Submit live URL + GitHub URL
+## 👨‍💻 Author
 
-## Note
+**Mosa Praveen**
 
-This is a conceptual student design project and is not affiliated with or endorsed by Red Bull GmbH.
+B.Tech – Computer Science & Engineering
+
+GitHub: [Mosa Praveen](https://github.com/mosapraveen)
+
+## 📄 License
+
+This project was created for educational and internship assignment purposes.
